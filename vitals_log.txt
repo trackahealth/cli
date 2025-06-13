@@ -1,0 +1,8 @@
+[1749780617] Heart Rate: 61 bpm, Temperature: 36.8°C, Breathing Rate: 19 breaths/min
+[1749780742] Heart Rate: 63 bpm, Temperature: 37.3°C, Breathing Rate: 20 breaths/min
+[1749780752] Heart Rate: 73 bpm, Temperature: 37.4°C, Breathing Rate: 19 breaths/min
+[1749780757] Heart Rate: 78 bpm, Temperature: 37.2°C, Breathing Rate: 19 breaths/min
+[1749780760] Heart Rate: 81 bpm, Temperature: 37.3°C, Breathing Rate: 19 breaths/min
+[1749780762] Heart Rate: 83 bpm, Temperature: 37.0°C, Breathing Rate: 17 breaths/min
+[1749780765] Heart Rate: 86 bpm, Temperature: 37.2°C, Breathing Rate: 15 breaths/min
+[1749782678] Heart Rate: 72 bpm, Temperature: 36.7°C, Breathing Rate: 13 breaths/min
