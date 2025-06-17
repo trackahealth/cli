@@ -1,4 +1,4 @@
-# 🩺 TrackaHealth CLI – Offline Vitals Logger
+I'm# 🩺 TrackaHealth CLI – Offline Vitals Logger
 
 A portable, offline-first health diagnostics tool designed for rural clinics in Nigeria and Africa.
 
@@ -26,7 +26,7 @@ cargo run
 Offline Vitals Tracker Demo: https://youtube.com/watch?v=6vUta_pUhbw
 
 📁 Or download the full video for offline viewing:  
-THinActiom.mp4 https://github.com/trackahealth/media/raw/main/THinAction.mp4
+Trackahealth-in-action.mp4 https://github.com/trackahealth/media/raw/main/Trackahealth-in-action.mp4
 
 All large media files are tracked using **Git LFS** — so they don’t slow down the repo. YouTube https://youtube.com/watch?v=6vUta_pUhbw
 
