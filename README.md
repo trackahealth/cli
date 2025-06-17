@@ -19,3 +19,10 @@ To build and run the CLI:
 ```bash
 cargo build
 cargo run
+
+## 🎥 Want to See It in Action?
+
+[Watch our short demo on YouTube](https://youtube.com/watch?v=6vUta_pUhbw)
+
+Shows how anyone can test TrackaHealth — no coding required.
+
