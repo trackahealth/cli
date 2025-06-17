@@ -23,10 +23,10 @@ cargo run
 ## 🎥 Want to See It in Action?
 
 📹 Watch the demo on YouTube:  
-[Offline Vitals Tracker Demo](https://youtube.com/watch?v=6vUta_pUhbw)
+Offline Vitals Tracker Demo: https://youtube.com/watch?v=6vUta_pUhbw
 
 📁 Or download the full video for offline viewing:  
-[THinActiom.mp4 (88MB)]https://github.com/trackahealth/media/raw/main/THinAction.mp4)
+THinActiom.mp4 https://github.com/trackahealth/media/raw/main/THinAction.mp4
 
-All large media files are tracked using **Git LFS** — so they don’t slow down the repo.n YouTube https://youtu.be/6vUta_pUhbwhttps://youtube.com/watch=6vUta_pUhbw
+All large media files are tracked using **Git LFS** — so they don’t slow down the repo.n YouTube https://youtube.com/watch=6vUta_pUhbw
 
