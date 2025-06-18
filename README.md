@@ -35,7 +35,7 @@ All large media files are tracked using **Git LFS** — so they don’t slow dow
 ## 🎥 Watch the Demo
 
 <a href="https://youtube.com/watch?v=6vUta_pUhbw">
-  <img src="https://github.com/trackahealth/media/raw/main/Trackahealth-running.jpg" width="600" alt="Trackahealth Running">
+  <img src="https://github.com/trackahealth/media/raw/main/demo-preview-v2.png" width="600" alt="Trackahealth Demo preview">
 </a>
 
 > Click the image above to watch the demo on YouTube  
