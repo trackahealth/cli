@@ -1,4 +1,4 @@
-I'm# 🩺 TrackaHealth CLI – Offline Vitals Logger
+# 🩺 TrackaHealth CLI – Offline Vitals Logger
 
 A portable, offline-first health diagnostics tool designed for rural clinics in Nigeria and Africa.
 
